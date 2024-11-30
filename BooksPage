@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style> 
+    *{
+     margin: 0;
+    }
+     #box{
+     background-color: rgb(17, 107, 241);
+     border: 1px solid black;
+     width: 100dvw;
+     height: 10dvw;
+     text-align: center;
+     p{
+        margin-top: 80.7px;
+        color: aliceblue;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        }
+     }
+    
+    p{
+        margin-top: 40px;
+        text-align: center;
+        font-stretch: wider;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+
+    
+      
+    #image{
+        height:200px; width:200px; border: 2px solid black;
+ padding-left:10px;   
+ padding-right: 10px;
+ 
+ 
+    }
+   #Novels{
+    
+        font-size:medium ;
+        font-weight: 100px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 20px;
+    
+    }
+    #KidsStories{
+         
+        font-size:medium ;
+        font-weight: 100px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 20px;
+    
+    }
+    #CookBoos{
+         
+        font-size:medium ;
+        font-weight: 100px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 20px;
+    
+    }
+
+  
+    </style>
+    </head>
+
+
+<body>
+   
+   
+
+<div id="box">
+    <p>Books Page</p>
+</div>
+<p  style="border: solid;">In this page you will find all the books our humble library offers</p><br>
+
+<h2>Novels </h2>
+<div1 id="Novels">
+<ul > 
+    <img src="twentyThousandEnglishCover.jpg" id="image" alt="Twenty Thousand Leagues Cover">
+    <li><b>Book Name</b>: Norhten Abbey<br><b> - Book Description:</b> <br>Northanger Abbey is the coming-of-age story of a young woman named Catherine Morland. It is divided into two sections, Book I and Book II. The two Books differ significantly from each other in setting and, to a degree, in tone.</li> <a href="./books/1. Northanger Abbey Author Jane Austen (1).pdf" download>Download the pdf</a><br>
+    <img src="" id="image" alt="">
+    <li><b>Book Name</b>: Twenty Thousand Leagues Under The Sea <br><b> - Book Description:</b><br> Twenty Thousand Leagues Under the Sea tells the story of three men who go to sea in search of a giant whale. They are taken prisoner on board the world’s first submarine – the Nautilus. </li><br>
+    <img src="" id="image" alt="">
+    <li><strong> Book Name</strong>: Nineteen Eighty-Four <br><b> - Book Description:</b><br>
+     As a dystopian novel, it illustrates the unfair and miserable society of Oceania, which is rife with totalitarian practices and constant surveillance. The book was written as a warning of what could happen if people allowed their governments to obtain too much power after Orwell saw what happened to the people in Nazi Germany. The book also demonstraightes the ability of the government to alter reality and manipulate facts to suit their narratives</li>
+  <br>
+</ul>
+</div><br>
+
+<h2>Cook Book</h2>
+<div2 id="Cookbooks">
+    <ul>
+        <li><b>Book Name</b>:Indian Cook Book <br> <b>- Book Description: explore all the wonderfull recipes from all across india both vegan and non vegan food for everyone out there</b><br>
+        </li><br>
+        <li><b>Book Name</b>:Profession Cooking 6th edition <br> <b>- Book Description: By john wily and Andre J.Cointreau this cook book introduces a new one of all types of food to you all the way from professional resturants to your kitchen and your own table made by professional chiefs and love</b><br>
+        </li><br>
+        <li><strong>Book Name</strong> : Mastering the art of french cooking <br><b>- Book Description: Mastering the Art of French Cooking
+            is for both seasoned cooks and begin
+            ners who love good food and long to
+            reproduce at home the savory de
+            lights of the classic cuisine, from the
+            historic Gallic masterpieces to the
+            seemingly artless perfection of a dish
+            of spring-green peas. This beautiful
+            book, with over 100 instructive illus
+            trations,</b><br>
+        </li><br>
+      <br>
+    </ul>
+    </div>
+
+<h2> Kids Stories</h2>
+    <div3 id="KidsStories">
+        <ul>
+            <li><b>Book Name</b>:A Mess!  <br> <b>- Book Description:Follow the story of the fun little siblings who just keeo finding mess all around them and learning how to clean it up and get rid of it for a mess to teach them a sense of responsibilty</b><br>
+            </li><br>
+            <li><b>Book Name</b>:Magnet Magic<br> <b>- Book Description:Dive into the fun story of our little girl who finds an interesting gadget called "magnets" while she discovers how they worl</b><br>
+            </li><br>
+            <li><b>Book Name</b>:Ballerina <br><b>- Book Description:A beautiful illustation of a pretty ballerina who shows how beautiful the art of dancing is</b><br>
+            </li><br>
+          <br>
+        </ul>
+</div>
+
+
+
+
+</body>
+</head>
+</html>
